@@ -1,0 +1,12 @@
+[submodule "Nessus_Professional_Port_Scanning_and_Analysis"]
+	path = Nessus_Professional_Port_Scanning_and_Analysis
+	url = https://github.com/MishaDey/Nessus_Professional_Port_Scanning_and_Analysis
+[submodule "SQL_injection_On_a_Vulnerable_Site"]
+	path = SQL_injection_On_a_Vulnerable_Site
+	url = https://github.com/MishaDey/SQL_injection_On_a_Vulnerable_Site
+[submodule "Email_Header_Analysis_Using_GSuite_toolbox"]
+	path = Email_Header_Analysis_Using_GSuite_toolbox
+	url = https://github.com/MishaDey/Email_Header_Analysis_Using_GSuite_toolbox
+[submodule "Network_Traffic_Analysis_Using_Wireshark"]
+	path = Network_Traffic_Analysis_Using_Wireshark
+	url = https://github.com/MishaDey/Network_Traffic_Analysis_Using_Wireshark
